@@ -5,7 +5,7 @@ const ingredientSchema = new Schema(
         post_id: {
             type: int,
             required: true,
-            unique: true
+            unique: false
         }
     }
 );
