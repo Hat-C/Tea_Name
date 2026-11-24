@@ -1,2 +1,0 @@
-//I know it's meant to be .env, but it wasn't working properly and after looking it up it seems like there's some built in protection against .env in certain contexts
-export default {DB_URI: 'mongodb+srv://<user>:<pass>@cluster0.mongodb.net/', PORT: 3000};
