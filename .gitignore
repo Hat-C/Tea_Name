@@ -1,5 +1,5 @@
 #enviroment
-env.js
+backend/env.js
 
 #node dependencies
 node_modules/
